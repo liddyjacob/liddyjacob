@@ -6,6 +6,17 @@ I'm Jacob, a **Data Scientist** with a **Computer Science and Mathematics backgr
 * SysAdmin-level familiarity with **UNIX**-based operating systems
 * **Machine Learning** and Advanced Statistical Modeling 
 * Data communication and **data dashboard design**
+* ...And more!
+
+### 📁 Resume
+
+My **Standard Resume** can be viewed [here](https://drive.google.com/file/d/1gE-WVyc6kOUrySHWRo8kiIqfeCQYTPBG/view?usp=drive_link)  
+
+### 📚 Projects
+
+P
+
+### 
 
 
 <!--
