@@ -10,13 +10,20 @@ I'm Jacob, a **Data Scientist** with a **Computer Science and Mathematics backgr
 
 ### 📁 Resume
 
-My **Standard Resume** can be viewed [here](https://drive.google.com/file/d/1gE-WVyc6kOUrySHWRo8kiIqfeCQYTPBG/view?usp=drive_link)  
+My **Standard Resume** can be viewed [here](https://drive.google.com/file/d/1gE-WVyc6kOUrySHWRo8kiIqfeCQYTPBG/view?usp=drive_link) .
 
 ### 📚 Projects
 
-P
+With over 40 respositories here, I have a curated project index [here](https://github.com/liddyjacob/Projects-Index/blob/main/README.md)
 
-### 
+
+### 📫 How to reach me
+
+Simply reach me on [LinkedIn](https://www.linkedin.com/in/jacob-liddy-995094157/)
+
+## About Me
+
+TODO fill this out
 
 
 <!--
