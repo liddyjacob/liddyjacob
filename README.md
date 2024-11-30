@@ -5,7 +5,7 @@ I'm Jacob, a **Data Scientist** with a **Computer Science and Mathematics backgr
 * Advanced development skills **Python, C++, SQL**
 * SysAdmin-level familiarity with **UNIX**-based operating systems
 * **Machine Learning** and Advanced Statistical Modeling 
-* **Time Series** and **Audio Signal Analysis**
+* **Time Series Forecasting** and **Audio Signal Analysis**
 * Data communication and **data dashboard design**
 * ...And more!
 
