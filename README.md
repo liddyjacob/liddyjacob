@@ -11,7 +11,7 @@ I'm Jacob, a **Data Scientist** with a **Computer Science and Mathematics backgr
 
 ### 📁 Resume
 
-My **Standard Resume** can be viewed [here](https://drive.google.com/file/d/1gE-WVyc6kOUrySHWRo8kiIqfeCQYTPBG/view?usp=drive_link). If you need a version with my phone number and address, just contact me on [LinkedIn](https://www.linkedin.com/in/jacob-liddy-995094157/) first.
+My **Standard Resume** can be viewed [here](https://drive.google.com/file/d/1gE-WVyc6kOUrySHWRo8kiIqfeCQYTPBG/view?usp=drive_link). If you need a version with my phone number, email, or address, just contact me on [LinkedIn](https://www.linkedin.com/in/jacob-liddy-995094157/) first.
 
 ### 📫 How to reach me
 
